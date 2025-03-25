@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on learning Python, JavaScript, HTML, and CSS
+- :brain: I'm currently learning Python, JavaScript, HTML, and CSS
