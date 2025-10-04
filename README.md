@@ -1,3 +1,3 @@
 ## Hi there 👋
-
-- :brain: I'm currently learning Python.
+I'm currently experienced with Python. 
+- :brain: I am currently learning JavaScript.
