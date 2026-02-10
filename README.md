@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Michael Joseph Spano, and I am an Information Technology Managment student interested in Python, SQL, and Java.
+My name is Michael Joseph Spano, and I am an Information Technology Managment student interested in **Python**, **SQ**L, and **Java**.
 
-I'm experienced with Python. 
-- You can find my Stock Market Analysis And Investing Tool (Python) project at https://github.com/misb1280/stockmarkettool.
-- :brain: I am currently learning Java and seeking internship opportunities.
+- 🔨 I built a program to take **Stock Market data** and export it to CSV, generate line charts with **Matplotlib**, company information, investment reccomendations, check it out [here](https://github.com/misb1280/stockmarkettool)!
+
+
