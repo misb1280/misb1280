@@ -19,3 +19,9 @@ building practical tools that sit at the intersection of technology and business
 - 💡 Interested in Python development, data analysis, and financial technology
 - 🌱 Currently exploring AI integration and expanding my project portfolio
 
+### 📊 GitHub Stats
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misb1280&show_icons=true&theme=dark)
+
+### 🤝 Connect With Me
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+
