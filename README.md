@@ -23,4 +23,4 @@ building practical tools that sit at the intersection of technology and business
 - 💼 [LinkedIn](https://www.linkedin.com/in/michaelsb1280/)
 
 ### 📊 GitHub Stats
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misb1280&show_icons=true&theme=dark&hide_border=true)
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=misb1280&show_icons=true&theme=dark&cache_seconds=86400)
