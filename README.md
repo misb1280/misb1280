@@ -1,7 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Michael Spano 👋
 
-My name is Michael Joseph Spano, and I am an Information Technology Managment student interested in **Python**, **SQ**L, and **Java**.
+I'm an **Information Technology Management** student with a passion for 
+building practical tools that sit at the intersection of technology and business.
 
-- 🔨 I built a Python program called SMAI. SMAI takes **Stock Market data** and exports it to CSV, generates line charts with **Matplotlib**, gathers company information, and gives investment reccomendations, check it out [here](https://github.com/misb1280/stockmarkettool)!
+### 🛠️ Skills
+- **Languages:** Python, SQL, Java
+- **Libraries:** Matplotlib, Requests
+- **Tools:** GitHub, Trello, VS Code
 
+### 🚀 Projects
+- 🔨 **[SMAI - Stock Market Analysis & Investing Tool](https://github.com/misb1280/stockmarkettool)**
+  A Python console application that retrieves live stock data via the Alpha Vantage API, 
+  generates Matplotlib line charts, exports data to CSV for Excel, and provides 
+  AI-powered investment recommendations.
+
+### 🎓 About Me
+- 📚 Junior studying Information Technology Management
+- 💡 Interested in Python development, data analysis, and financial technology
+- 🌱 Currently exploring AI integration and expanding my project portfolio
 
