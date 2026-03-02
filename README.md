@@ -20,5 +20,5 @@ building practical tools that sit at the intersection of technology and business
 - 🌱 Currently exploring AI integration and expanding my project portfolio
 
 ### 🤝 Connect With Me
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/michaelsb1280/)
 
