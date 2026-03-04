@@ -7,7 +7,7 @@ building practical tools that sit at the intersection of technology and business
 - **Tools:** GitHub, Trello, VS Code
 
 ### 🚀 Projects
-<img width="1920" height="1080" alt="SMAI_Logo_Dark" src="https://github.com/user-attachments/assets/06e25dbf-21fb-4d1e-8423-a62baff70f52" />
+<img width="720" height="480" alt="SMAI_Logo_Dark" src="https://github.com/user-attachments/assets/06e25dbf-21fb-4d1e-8423-a62baff70f52" />
 - 🔨 **[SMAI - Stock Market Analysis & Investing Tool](https://github.com/misb1280/stockmarkettool)**
   A Python GUI and console application that retrieves live stock data via the Alpha Vantage API, 
   generates Matplotlib line charts, exports data to CSV for Excel, and provides 
