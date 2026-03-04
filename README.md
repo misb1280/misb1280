@@ -8,7 +8,7 @@ building practical tools that sit at the intersection of technology and business
 
 ### 🚀 Projects
 - 🔨 **[SMAI - Stock Market Analysis & Investing Tool](https://github.com/misb1280/stockmarkettool)**
-  A Python console application that retrieves live stock data via the Alpha Vantage API, 
+  A Python GUI and console application that retrieves live stock data via the Alpha Vantage API, 
   generates Matplotlib line charts, exports data to CSV for Excel, and provides 
   AI-powered investment recommendations.
 
