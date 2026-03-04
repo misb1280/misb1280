@@ -3,7 +3,7 @@ I'm an **Information Technology Management** student with a passion for
 building practical tools that sit at the intersection of technology and business.
 
 ### 🛠️ Skills
-- **Languages:** Python, SQL, Java
+- **Languages:** Python, SQL
 - **Libraries:** Matplotlib, Requests
 - **Tools:** GitHub, Trello, VS Code
 
