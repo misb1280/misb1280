@@ -4,7 +4,6 @@ building practical tools that sit at the intersection of technology and business
 
 ### 🛠️ Skills
 - **Languages:** Python, SQL
-- **Libraries:** Matplotlib, Requests
 - **Tools:** GitHub, Trello, VS Code
 
 ### 🚀 Projects
