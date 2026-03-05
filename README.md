@@ -1,4 +1,7 @@
 ## Hi there, I'm Michael Spano 👋
+
+<img width="3168" height="792" alt="Linkedin_Header_SpanoMichaelJoseph" src="https://github.com/user-attachments/assets/e2e10e71-c86d-45ac-9e1e-2b693e3543a7" />
+
 I'm an **Information Technology Management** student with a passion for 
 building practical tools that sit at the intersection of technology and business.
 
